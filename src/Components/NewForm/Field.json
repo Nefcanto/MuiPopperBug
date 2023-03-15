@@ -1,0 +1,11 @@
+{
+	type: '',
+	initialValue: types
+	currentValue: types,
+	required: true/false,
+	regex: '',
+	isDirty: true/false,
+	isValid: true/false,
+	isChanged: true/false,
+	property: '',
+}
